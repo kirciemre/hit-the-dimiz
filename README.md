@@ -3,5 +3,5 @@ Dimiz is the most fancy person I have ever met and this game made for him.
 Let's play Hit the Dimiz game!
 
 Live Demo: 
-[Link]: kirciemre.github.io/hit-the-dimiz
+[r2h]: kirciemre.github.io/hit-the-dimiz
 
