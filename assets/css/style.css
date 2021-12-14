@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   font-size: 10px;
   background: #ffc800e7;
+ 
 }
 
 *, *:before, *:after {
@@ -27,10 +28,8 @@ header {
 }
 
 h1 {
-  text-align: center;
-  font-size: 10rem;
-  line-height: 1;
-  margin-bottom: 0;
+  font-size: 8rem;
+  text-align: center!important;
 }
 
 .score {
@@ -111,7 +110,7 @@ h1 {
   top: 100%;
   width: 100%;
   height: 100%;
-  transition:all 0.3s;
+  transition:all 0.4s;
 }
 
 .hole.up .mole {
