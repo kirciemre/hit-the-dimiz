@@ -5,4 +5,4 @@ Let's play Hit the Dimiz game!
 [Live Demo](https://kirciemre.github.io/hit-the-dimiz/) :point_left:
 
 
-Please send your feedbacks to: [Emre KIRCI](mailto:emre@emrekirci.com?subject=[GitHub]%20Source%20Han%20Sans) 
+Please send your feedbacks to: [Emre KIRCI](mailto:emre@emrekirci.com?subject=Hit%20The%20Dımız%20Game) 
